@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Hamzzy
 
-<!--
-**hamzzy-dev/hamzzy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A Cyber Security / ICT student passionate about tech and innovation.  
+💻 Currently learning HTML, CSS, Python, and Cyber Security basics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills I'm Learning:
+- Frontend (HTML, CSS)
+- Python programming 🐍
+- Cybersecurity (TryHackMe, Cisco Networking)
+- Basic Linux & Terminal
+
+---
+
+### 📜 Certificates (coming soon):
+- ✅ Cisco Intro to Cybersecurity
+- ✅ Sololearn Python
+- ✅ TryHackMe beginner labs
+
+---
+
+### 🧪 Projects:
+- ✅ Python calculator (CLI)
+- 🌐 Personal website (soon)
+- 🔐 Cybersecurity labs from TryHackMe
+
+---
+
+📫 **Contact Me**  
+📧 tzdonhamzzy@gmail.com  
+🌍 [Visit My GitHub](https://github.com/hamzzy-dev)
