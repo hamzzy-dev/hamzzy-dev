@@ -28,5 +28,5 @@
 ---
 
 📫 **Contact Me**  
-📧 tzdonhamzzy@gmail.com  
+📧 itzdonhamzzy@gmail.com
 🌍 [Visit My GitHub](https://github.com/hamzzy-dev)
